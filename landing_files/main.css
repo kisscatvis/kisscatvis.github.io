@@ -540,7 +540,8 @@ section {
     padding: 100px 0;
 }
 
-section:nth-child(1):not(.footer):not(.copyright),
+
+/* section:nth-child(1):not(.footer):not(.copyright),
 section:nth-child(2):not(.footer):not(.copyright) {
     background-color: var(--hero-bg-color);
 }
@@ -603,7 +604,7 @@ section:nth-child(16) {
 
 section:nth-child(17) {
     background-color: var(--section-15-bg-color);
-}
+} */
 
 section.bg-image-1 {
     position: relative;
